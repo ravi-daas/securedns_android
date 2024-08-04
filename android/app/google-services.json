@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138991654025",
+    "project_id": "dns-7019b",
+    "storage_bucket": "dns-7019b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138991654025:android:c37b6ad0dd8a548c51a258",
+        "android_client_info": {
+          "package_name": "com.example.cygiene_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxX9hn1BqiiwJg0gRKH7wz-46h9CwHAX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
